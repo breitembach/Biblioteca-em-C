@@ -1,5 +1,5 @@
 # Biblioteca-em-C
-Pequena biblioteca em linguagem C. Como funciona a criação de funções, struct e ponteiros importante na linguagem.
+Pequena biblioteca em linguagem C. Como funciona a criação de funções, struct , recursividade e ponteiros importante na linguagem.
 
 <h2> Algumas das funções criadas</h2>
 <nav>
